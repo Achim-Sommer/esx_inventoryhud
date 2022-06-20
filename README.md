@@ -1,5 +1,5 @@
 
-#esx-inventoryhud - UPDATING TO ESX 1.2
+esx-inventoryhud - UPDATING TO ESX 1.2
 
 ## Features
 - Drag and drop
